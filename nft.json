@@ -1,6 +1,6 @@
 {
-	name: "FOCUS #1",
-	symbol: "FOCUS",
-	description: "Focus on the future, no distractions",
-	image: "https://i.pinimg.com/736x/dd/83/e5/dd83e5c0568c671768a275d2f4ac60be.jpg",
+	"name": "FOCUS #1",
+	"symbol": "FOCUS",
+	"description": "Focus on the future, no distractions",
+	"image": "https://i.pinimg.com/736x/dd/83/e5/dd83e5c0568c671768a275d2f4ac60be.jpg",
 }
